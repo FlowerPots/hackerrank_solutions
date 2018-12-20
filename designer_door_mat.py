@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 
 N, M = [int(x) for x in input().split()]
 

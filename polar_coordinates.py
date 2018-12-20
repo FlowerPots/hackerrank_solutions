@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 
 from math import sqrt
 from cmath import phase
